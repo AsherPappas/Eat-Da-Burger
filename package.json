@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AsherPappas/Eat-Da-Burger#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
     "mysql": "^2.18.1"
   }
 }
